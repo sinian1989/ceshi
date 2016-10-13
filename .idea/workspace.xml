@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e905a7-0e3b-47a2-8bdb-2a2ddd4a1d6a" name="Default" comment="" />
+    <ignored path="htmlreact-redux.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="htmlreact-redux" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="schoolpage.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/schoolpage.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/search.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-156">
+              <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xyactivity.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/xyactivity.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectclass.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/selectclass.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1104">
+              <caret line="51" column="95" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xyclubdetail.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/xyclubdetail.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="133" column="33" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="superkcb.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/superkcb.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="186" column="13" selection-start-line="186" selection-start-column="13" selection-end-line="186" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xynewclass.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/xynewclass.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="66" column="37" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xyteacherteam.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/xyteacherteam.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/list.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/reducers/tbtj.js" />
+        <option value="$PROJECT_DIR$/src/reducers/cnxh.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/reducers/xxkc.js" />
+        <option value="$PROJECT_DIR$/src/actions/getuser.js" />
+        <option value="$PROJECT_DIR$/src/reducers/list.js" />
+        <option value="$PROJECT_DIR$/src/reducers/superkcb.js" />
+        <option value="$PROJECT_DIR$/src/libs/ckb.js" />
+        <option value="$PROJECT_DIR$/src/reducers/classtype.js" />
+        <option value="$PROJECT_DIR$/src/containers/classlist.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/classlisttop.jsx" />
+        <option value="$PROJECT_DIR$/src/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/libs/base.js" />
+        <option value="$PROJECT_DIR$/src/reducers/orderdata.js" />
+        <option value="$PROJECT_DIR$/src/reducers/orderlist.js" />
+        <option value="$PROJECT_DIR$/src/reducers/orderinfo.js" />
+        <option value="$PROJECT_DIR$/src/reducers/evaluat.js" />
+        <option value="$PROJECT_DIR$/src/reducers/detailclasscomment.js" />
+        <option value="$PROJECT_DIR$/src/containers/dssppl.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/hairschool.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/actions/types.js" />
+        <option value="$PROJECT_DIR$/src/reducers/schoolinfo.js" />
+        <option value="$PROJECT_DIR$/src/containers/xyteacherteam.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/xyactivity.jsx" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/src/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/src/app.jsx" />
+        <option value="$PROJECT_DIR$/src/reducers/detailclass.js" />
+        <option value="$PROJECT_DIR$/src/containers/xyclubdetail.jsx" />
+        <option value="$PROJECT_DIR$/src/actions/allactions.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/src/reducers/schoolbanner.js" />
+        <option value="$PROJECT_DIR$/src/containers/accounts.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/detail.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/evaluating.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/hairschool.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/index.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/odetail.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/olist.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/schoolpage.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/search.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/xynewclass.jsx" />
+        <option value="$PROJECT_DIR$/src/components/list.jsx" />
+        <option value="$PROJECT_DIR$/src/components/selectclass.jsx" />
+        <option value="$PROJECT_DIR$/src/components/superkcb.jsx" />
+        <option value="$PROJECT_DIR$/src/main.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.babel.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reducers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htmlreact-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\shop\htmlreact-redux\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\shop\htmlreact-redux" />
+      <recent name="E:\shop\htmlreact-redux\src" />
+      <recent name="E:\shop\htmlreact-redux\src\containers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e905a7-0e3b-47a2-8bdb-2a2ddd4a1d6a" name="Default" comment="" />
+      <created>1474345492317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474345492317</updated>
+      <workItem from="1474345493575" duration="23931000" />
+      <workItem from="1474426969252" duration="30102000" />
+      <workItem from="1474613005665" duration="17844000" />
+      <workItem from="1474860842465" duration="49451000" />
+      <workItem from="1474970106851" duration="1092000" />
+      <workItem from="1475027296536" duration="44249000" />
+      <workItem from="1475141664159" duration="25504000" />
+      <workItem from="1475890879044" duration="20913000" />
+      <workItem from="1475982017044" duration="11011000" />
+      <workItem from="1475995074719" duration="10324000" />
+      <workItem from="1476005569610" duration="49351000" />
+      <workItem from="1476176615946" duration="18459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="302231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1918" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15409139" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/libs/wxapi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/orderlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#48#115#0" expanded="false" />
+            <element signature="e#133#182#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/evaluat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="e#48#139#0" expanded="false" />
+            <element signature="e#157#206#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/detailclasscomment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#49#105#0" expanded="false" />
+            <element signature="e#123#172#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/hairschool.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/orderinfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/schoolinfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="e#49#144#0" expanded="false" />
+            <element signature="e#162#211#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/images/3f687c64.bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/detailclass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="38" column="76" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+          <folding>
+            <element signature="e#147#171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DevTools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/orderdata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="0" column="25073" selection-start-line="0" selection-start-column="25073" selection-end-line="0" selection-end-column="25073" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/createDevTools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#48#74#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/classtype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#48#240#0" expanded="false" />
+            <element signature="e#258#307#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1686">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/allactions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#48#81#0" expanded="false" />
+            <element signature="e#9204#10879#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/schoolbanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/accounts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6782">
+          <caret line="101" column="27" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/classlist.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/classlisttop.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/detail.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="328" column="44" selection-start-line="328" selection-start-column="42" selection-end-line="328" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/dssppl.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="166" column="41" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/evaluating.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="165" column="32" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!block;n#savabasic#0;n#Evaluating#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/hairschool.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="326" column="77" selection-start-line="326" selection-start-column="77" selection-end-line="326" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#343#375#0" expanded="true" />
+            <marker date="1476323203370" expanded="true" signature="8546:8554" ph="..." />
+            <marker date="1476323203370" expanded="true" signature="8736:8744" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/odetail.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="282" column="54" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!block;n#paytp#0;n#Odetail#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/olist.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/schoolpage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="96" column="36" selection-start-line="96" selection-start-column="36" selection-end-line="96" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/search.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/xyactivity.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/xyclubdetail.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="133" column="33" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/xynewclass.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="66" column="37" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/xyteacherteam.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/list.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/selectclass.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="51" column="95" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/superkcb.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="186" column="13" selection-start-line="186" selection-start-column="13" selection-end-line="186" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
